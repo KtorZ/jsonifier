@@ -41,7 +41,7 @@ library
     cbits/json_encoding.c
   build-depends:
     base >=4.11 && <5,
-    bytestring >=0.10.10 && <0.12,
+    bytestring >=0.10.8.0 && <0.12,
     ptr-poker >=0.1 && <0.2,
     scientific >=0.3.6.2 && <0.4,
     text >=1 && <2
